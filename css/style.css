@@ -1,0 +1,22 @@
+
+input{
+  width: 170px;
+  height: 20px;
+  border: 2px solid black;
+  margin-bottom: 8px;
+}
+
+button{
+  background-color: blue;
+  color: white;
+  font-size: 20px;
+  width: 100px;
+  height: 40px;
+  border: none;
+}
+
+button:hover{
+  background-color: white;
+  border: 2px solid blue;
+  color: black;
+}
